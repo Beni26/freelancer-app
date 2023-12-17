@@ -78,7 +78,9 @@ button:disabled {
   pointer-events: none;
   box-shadow: none;
 }
-
+label{
+  display: block;
+}
 /* inupt number */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
